@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dswhitely1/portfolio-2020.git"
+  },
+  "keywords": [],
+  "author": "Donald Whitely <don@donwhitely.com> (https://www.donwhitely.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dswhitely1/portfolio-2020/issues"
+  },
+  "homepage": "https://github.com/dswhitely1/portfolio-2020#readme"
+}
