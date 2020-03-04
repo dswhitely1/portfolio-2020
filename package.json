@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dswhitely1/portfolio-2020/issues"
   },
-  "homepage": "https://github.com/dswhitely1/portfolio-2020#readme"
+  "homepage": "https://github.com/dswhitely1/portfolio-2020#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
 }

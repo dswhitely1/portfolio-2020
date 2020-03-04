@@ -1,0 +1,40 @@
+$misc: (
+        z-index-base: 10000,
+        max-features: 20,
+        max-sidebar-links: 20
+);
+$duration: (
+        transition: 0.2s,
+        activation: 1s
+);
+$size: (
+        border-radius: 0.25rem,
+        border-width: 1px,
+        element-height: 2.75rem,
+        element-margin: 2rem,
+        sidebar-width: 18rem,
+        sidebar-height: 3.5rem,
+        inner-width: 75rem
+);
+$font: (
+        family: (Arial, Helvetica, sans-serif),
+        family-fixed: ('Courier New', monospace),
+        weight: normal,
+        weight-bold: bold,
+        kerning-alt: 0.25rem
+);
+$palette: (
+        bg: #001a16,
+        bg-alt: darken(#001a16, 5),
+        fg: rgba(255, 255, 255, 0.55),
+        fg-bold: #ffffff,
+        fg-light: rgba(255, 255, 255, 0.35),
+        border: rgba(255, 255, 255, 0.15),
+        border-bg: rgba(255, 255, 255, 0.05),
+        accent1: #022C25,
+        accent1-alt: darken(#4F6A65, 10),
+        accent2: #462D03,
+        accent2-alt: darken(#3C5854, 10),
+        accent3: #63000D,
+        accent3-alt: darken(#1B3D38, 10)
+);
