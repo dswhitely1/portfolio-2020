@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to portfolio 👋</h1>
 <p>
+<a href="https://codeclimate.com/github/dswhitely1/portfolio-2020/maintainability"><img src="https://api.codeclimate.com/v1/badges/e60ecc37ce7c1cace486/maintainability" /></a>
+<a href="https://codeclimate.com/github/dswhitely1/portfolio-2020/test_coverage"><img src="https://api.codeclimate.com/v1/badges/e60ecc37ce7c1cace486/test_coverage" /></a>
   <a href="https://www.npmjs.com/package/portfolio" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/portfolio.svg">
   </a>

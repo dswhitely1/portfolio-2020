@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "client": "cd client && npm run start"
+    "client": "cd client && yarn start"
   },
   "repository": {
     "type": "git",
